@@ -1,5 +1,5 @@
 {
-    "name": "elimuswift/db-exporter",
+    "name": "letuananh1873/db-exporter",
     "description": "Export your database quickly and easily as a Laravel Migration and all the data as a Seeder class.",
     "keywords": ["Export", "PHP", "Database", "Migrations", "Laravel", "Seed", "Command", "Artisan"],
     "license": "MIT",
@@ -10,11 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "illuminate/support": "^5.2",
-        "illuminate/database": "^5.2",
-        "illuminate/filesystem": "^5.2"
-
+        "php": ">=5.5.9"
     },
     "require-dev": {
         "orchestra/testbench": "~3.0",
